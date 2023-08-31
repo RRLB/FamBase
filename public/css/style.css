@@ -1,0 +1,31 @@
+
+body {
+    padding-top : 0.5em;
+    margin : 3em;
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 20px;
+}
+#btn-wide {
+    padding-left: 2.4em;
+    Padding-right: 2.4em;
+    
+} 
+#lastInput {
+    margin-bottom: 0.8em;
+    }
+.labelmiddle {
+    padding-top: 0.8em;
+    padding-bottom: 0.4em;
+}
+#labeltop{
+    padding-bottom: 0.4em;
+}
+#loginButtonRow{
+    margin-top: 25px;
+}
+
+.nonCardPages{
+    margin-top: 3em;
+}
